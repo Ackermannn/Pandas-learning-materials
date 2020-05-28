@@ -31,4 +31,7 @@
 ![封皮](/img/bookface.png)
 
 
+# 更多
+
+[数据科学的更多速查手册](./more-cheet-sheet)
 
